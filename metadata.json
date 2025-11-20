@@ -1,0 +1,5 @@
+{
+  "name": "WarmPaws",
+  "description": "A winter-themed pet care single-page application using React, Firebase, and Tailwind CSS.",
+  "requestFramePermissions": []
+}

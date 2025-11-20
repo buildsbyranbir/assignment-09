@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the freezing cold. We measure specifically for your breed.",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?q=80&w=800&auto=format&fit=crop",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo to prevent cracking and salt damage.",
+    "image": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?q=80&w=800&auto=format&fit=crop",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Kennel Overnight Stay",
+    "providerName": "SafeHaven Boarding",
+    "providerEmail": "stay@safehaven.com",
+    "price": 50,
+    "rating": 4.7,
+    "slotsAvailable": 10,
+    "description": "Luxury heated kennels for overnight stays. Includes heated blankets and 24/7 monitoring during snowstorms.",
+    "image": "https://images.unsplash.com/photo-1541599540903-216a46ca1dc0?q=80&w=800&auto=format&fit=crop",
+    "category": "Boarding"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Indoor Agility Training",
+    "providerName": "ActivePaws Gym",
+    "providerEmail": "train@activepaws.com",
+    "price": 40,
+    "rating": 4.6,
+    "slotsAvailable": 6,
+    "description": "Keep your pet active indoors during winter! A full agility course designed to burn energy without the frostbite.",
+    "image": "https://images.unsplash.com/photo-1601758177266-bc599de87707?q=80&w=800&auto=format&fit=crop",
+    "category": "Training"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Senior Pet Joint Therapy",
+    "providerName": "VetMobile",
+    "providerEmail": "dr.smith@vetmobile.com",
+    "price": 75,
+    "rating": 5.0,
+    "slotsAvailable": 2,
+    "description": "Cold weather hurts older joints. We provide laser therapy and warm massage to help senior pets move pain-free.",
+    "image": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?q=80&w=800&auto=format&fit=crop",
+    "category": "Health"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Hot Broth & Nutrition Plan",
+    "providerName": "HealthyPaws Nutrition",
+    "providerEmail": "food@healthypaws.com",
+    "price": 20,
+    "rating": 4.5,
+    "slotsAvailable": 15,
+    "description": "Consultation for a high-calorie winter diet and bone broth recipes to keep your pet warm from the inside out.",
+    "image": "https://images.unsplash.com/photo-1589924691195-41432c84c161?q=80&w=800&auto=format&fit=crop",
+    "category": "Nutrition"
+  }
+]
