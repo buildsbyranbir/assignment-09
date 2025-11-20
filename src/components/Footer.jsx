@@ -24,12 +24,13 @@ const Footer = () => {
         <Link className="link link-hover">About us</Link>
         <Link className="link link-hover">Contact</Link>
       </nav>
+      
       <nav>
         <header className="footer-title">Social</header>
         <div className="grid grid-flow-col gap-4">
-          <a className="link link-hover text-2xl">🐦</a>
-          <a className="link link-hover text-2xl">📘</a>
-          <a className="link link-hover text-2xl">📸</a>
+          <a className="link link-hover text-2xl">facebook</a>
+          <a className="link link-hover text-2xl">youtube</a>
+          <a className="link link-hover text-2xl">twitter</a>
         </div>
       </nav>
     </footer>
