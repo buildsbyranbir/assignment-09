@@ -50,3 +50,8 @@ It includes **Firebase authentication**, **protected routes**, **service details
 ### **Authentication**
 - Firebase Authentication  
 - Environment Variables for Firebase security  
+
+### **Used NPM Packages (Requirement Satisfied)**
+- **Swiper.js** (Hero Slider)  
+- **AOS** (Animations)  
+- **react-hot-toast** (Notifications)  
