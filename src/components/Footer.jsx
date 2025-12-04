@@ -26,7 +26,7 @@ const Footer = () => {
       </nav>
       
       <nav>
-        <header className="footer-title">Social</header>
+        <header className="footer-title">Social Links</header>
         <div className="grid grid-flow-col gap-4">
           <a className="link link-hover text-2xl">facebook</a>
           <a className="link link-hover text-2xl">youtube</a>
