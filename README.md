@@ -39,3 +39,14 @@ It includes **Firebase authentication**, **protected routes**, **service details
 - Extra Bonus Section  
 
 ---
+
+## 🛠 Technologies & Tools Used  
+
+### **Frontend**
+- React (Vite)
+- React Router DOM
+- TailwindCSS / DaisyUI
+
+### **Authentication**
+- Firebase Authentication  
+- Environment Variables for Firebase security  
